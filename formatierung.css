@@ -1,0 +1,32 @@
+p {
+    font-family: 'verdana';
+    }
+
+
+
+h1 {
+    color: green;
+    text-align: center; 
+    }
+
+h2 {
+    color: #afafaf;
+    background-color: white;
+    padding-left: 10px;
+    }
+
+
+/* Einführung des Selektors Achtung */
+.achtung {     
+    color: red ;
+   }
+
+
+.zentriert {   
+ text-align: center;  
+ color: grey;
+}
+
+
+
+#erstesBild {  width: 20% }
