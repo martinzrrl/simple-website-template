@@ -2,4 +2,4 @@
 This is a simple website template.
 
 
-an open-source framework for creating performant websites is gatsbyjs.com
+An open-source framework for creating performant websites is gatsbyjs.com.
